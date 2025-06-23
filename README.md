@@ -1,3 +1,6 @@
+Nama  : Raja Naufal Fadhil Ns
+NIM   : 2306020
+
 # UAS - Kecerdasan Buatan: Deteksi Pesan Spam dengan CNN
 
 Repositori ini merupakan hasil pengerjaan **Ujian Akhir Semester** mata kuliah **Kecerdasan Buatan** yang berfokus pada penerapan **Deep Learning**, khususnya **Convolutional Neural Network (CNN)**, dalam mendeteksi pesan **spam** pada data teks.
