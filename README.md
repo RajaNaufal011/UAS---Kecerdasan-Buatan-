@@ -1,4 +1,5 @@
 Nama  : Raja Naufal Fadhil Ns
+
 NIM   : 2306020
 
 # UAS - Kecerdasan Buatan: Deteksi Pesan Spam dengan CNN
